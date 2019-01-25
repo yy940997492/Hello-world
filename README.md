@@ -1,2 +1,3 @@
 # Hello-world
-newstart
+新的开始
+printf("helloworld")
